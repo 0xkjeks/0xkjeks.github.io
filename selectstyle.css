@@ -1,0 +1,38 @@
+html, body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#content
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.buttonDiv
+{
+    width: 75%;
+    height: 50px;
+    margin-top: 30px;
+}
+
+.selectBtn
+{
+    width: 100%;
+    height: 75px;
+    font-size: 50px;
+}
+
+#title
+{
+    margin-top: 20px;
+    font-size: 30px;
+}
